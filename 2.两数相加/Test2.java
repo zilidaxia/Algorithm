@@ -24,7 +24,7 @@
 输入：l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]
 输出：[8,9,9,9,0,0,0,1] */
 
-public class Test {
+public class Test2 {
     public class ListNode {
         int val;
         ListNode next;
